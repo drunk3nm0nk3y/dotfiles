@@ -83,6 +83,9 @@ else
    export EDITOR='vim'
 fi
 
+# java
+export JAVA_HOME=/usr/lib/jvm/java-1.8.0-openjdk
+
 # Compilation flags
 # export ARCHFLAGS="-arch x86_64"
 

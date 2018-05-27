@@ -30,7 +30,7 @@
 [diff]
 	renames = true
 [commit]
-	gpgsign = 1
+	gpgsign = 0
 [merge]
 	tool = meld
 [credential]
